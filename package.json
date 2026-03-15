@@ -1,0 +1,13 @@
+{
+    "name": "aaiii",
+    "version": "1.0.0",
+    "description": "Hai-Ching's Claude Code Skill CLI",
+    "bin": {
+        "aaiii": "./bin.js"
+    },
+    "files": [
+        "bin.js",
+        "README.md"
+    ],
+    "license": "MIT"
+}
