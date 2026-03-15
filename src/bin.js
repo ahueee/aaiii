@@ -2,7 +2,7 @@
 
 const { execSync } = require("child_process");
 
-const REPO = "ahueee/aaiii";
+const REPO = "ahueee/ahhc";
 const CLAUDE_MD_URL = `https://raw.githubusercontent.com/${REPO}/main/CLAUDE.md`;
 
 const commands = {

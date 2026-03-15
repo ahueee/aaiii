@@ -1,12 +1,12 @@
-# aaiii
+# ahhc
 
-[![npm](https://img.shields.io/npm/v/aaiii)](https://www.npmjs.com/package/aaiii)
+[![npm](https://img.shields.io/npm/v/ahhc)](https://www.npmjs.com/package/ahhc)
 
 CLI to install Hai-Ching's Claude Code Skills.
 
 ## Install Skills
 
 ```bash
-npx aaiii install
-npx aaiii uninstall
+npx ahhc install
+npx ahhc uninstall
 ```

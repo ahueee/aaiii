@@ -1,12 +1,12 @@
 {
-    "name": "aaiii",
+    "name": "ahhc",
     "version": "1.0.0",
     "description": "Hai-Ching's Claude Code Skill CLI",
     "bin": {
-        "aaiii": "./bin.js"
+        "ahhc": "./src/bin.js"
     },
     "files": [
-        "bin.js",
+        "src/bin.js",
         "README.md"
     ],
     "license": "MIT"
